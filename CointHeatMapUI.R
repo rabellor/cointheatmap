@@ -3,9 +3,9 @@ library(plotly)
 #library(Rblpapi)
 #library(tseries)
 #library(urca)
-#source("\\\\Sp-desen-0077\\svc_difusao\\Anne\\DEV\\Cointegration_Heatmap_Main.r")
-#source("\\\\Sp-desen-0077\\svc_difusao\\Anne\\DEV\\Cointegration_Heatmap_Function.r")
-#source("\\\\Sp-desen-0077\\svc_difusao\\Anne\\DEV\\Cointegration_Heatmap_Table.r")
+#source("\\Anne\\DEV\\Cointegration_Heatmap_Main.r")
+#source("\\Anne\\DEV\\Cointegration_Heatmap_Function.r")
+#source("\\Anne\\DEV\\Cointegration_Heatmap_Table.r")
 
 
 ui <- fluidPage(
